@@ -17,6 +17,14 @@ namespace Exercise3.DTO
                 return System.IO.Path.GetExtension(Path).Equals(".txt");
             }
         }
+
+        public bool IsXml
+        {
+            get
+            {
+                return System.IO.Path.GetExtension(Path).Equals(".xml");
+            }
+        }
     }
 
     

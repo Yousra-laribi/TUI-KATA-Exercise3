@@ -12,3 +12,10 @@ C:\Users\yousra.laribi\OneDrive\Arolla\TUI\Exercice3 - 1\Exercice3.Tests\Exercis
 C:\Users\yousra.laribi\OneDrive\Arolla\TUI\Exercice3 - 1\Exercice3.Tests\Exercise3.Services\obj\Debug\Exercise3.Services.csprojResolveAssemblyReference.cache
 C:\Users\yousra.laribi\OneDrive\Arolla\TUI\Exercice3 - 1\Exercice3.Tests\Exercise3.Services\obj\Debug\Exercise3.Services.dll
 C:\Users\yousra.laribi\OneDrive\Arolla\TUI\Exercice3 - 1\Exercice3.Tests\Exercise3.Services\obj\Debug\Exercise3.Services.pdb
+C:\Users\Yousra\Arolla\TUI-KATA-Exercise3\Exercice3.Tests\Exercise3.Services\bin\Debug\Exercise3.Services.dll
+C:\Users\Yousra\Arolla\TUI-KATA-Exercise3\Exercice3.Tests\Exercise3.Services\bin\Debug\Exercise3.Services.pdb
+C:\Users\Yousra\Arolla\TUI-KATA-Exercise3\Exercice3.Tests\Exercise3.Services\bin\Debug\Exercice3.DTO.dll
+C:\Users\Yousra\Arolla\TUI-KATA-Exercise3\Exercice3.Tests\Exercise3.Services\bin\Debug\Exercice3.DTO.pdb
+C:\Users\Yousra\Arolla\TUI-KATA-Exercise3\Exercice3.Tests\Exercise3.Services\obj\Debug\Exercise3.Services.csprojResolveAssemblyReference.cache
+C:\Users\Yousra\Arolla\TUI-KATA-Exercise3\Exercice3.Tests\Exercise3.Services\obj\Debug\Exercise3.Services.dll
+C:\Users\Yousra\Arolla\TUI-KATA-Exercise3\Exercice3.Tests\Exercise3.Services\obj\Debug\Exercise3.Services.pdb

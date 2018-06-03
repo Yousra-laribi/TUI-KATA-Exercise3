@@ -20,3 +20,14 @@ C:\Users\yousra.laribi\OneDrive\Arolla\TUI\Exercice3 - 1\Exercice3.Tests\Exercic
 C:\Users\yousra.laribi\OneDrive\Arolla\TUI\Exercice3 - 1\Exercice3.Tests\Exercice3.Tests\obj\Debug\Exercice3.Tests.csprojResolveAssemblyReference.cache
 C:\Users\yousra.laribi\OneDrive\Arolla\TUI\Exercice3 - 1\Exercice3.Tests\Exercice3.Tests\obj\Debug\Exercice3.Tests.dll
 C:\Users\yousra.laribi\OneDrive\Arolla\TUI\Exercice3 - 1\Exercice3.Tests\Exercice3.Tests\obj\Debug\Exercice3.Tests.pdb
+C:\Users\Yousra\Arolla\TUI-KATA-Exercise3\Exercice3.Tests\Exercice3.Tests\bin\Debug\Exercice3.Tests.dll
+C:\Users\Yousra\Arolla\TUI-KATA-Exercise3\Exercice3.Tests\Exercice3.Tests\bin\Debug\Exercice3.Tests.pdb
+C:\Users\Yousra\Arolla\TUI-KATA-Exercise3\Exercice3.Tests\Exercice3.Tests\bin\Debug\Exercice3.DTO.dll
+C:\Users\Yousra\Arolla\TUI-KATA-Exercise3\Exercice3.Tests\Exercice3.Tests\bin\Debug\Exercise3.Services.dll
+C:\Users\Yousra\Arolla\TUI-KATA-Exercise3\Exercice3.Tests\Exercice3.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Yousra\Arolla\TUI-KATA-Exercise3\Exercice3.Tests\Exercice3.Tests\bin\Debug\Exercice3.DTO.pdb
+C:\Users\Yousra\Arolla\TUI-KATA-Exercise3\Exercice3.Tests\Exercice3.Tests\bin\Debug\Exercise3.Services.pdb
+C:\Users\Yousra\Arolla\TUI-KATA-Exercise3\Exercice3.Tests\Exercice3.Tests\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Yousra\Arolla\TUI-KATA-Exercise3\Exercice3.Tests\Exercice3.Tests\obj\Debug\Exercice3.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Yousra\Arolla\TUI-KATA-Exercise3\Exercice3.Tests\Exercice3.Tests\obj\Debug\Exercice3.Tests.dll
+C:\Users\Yousra\Arolla\TUI-KATA-Exercise3\Exercice3.Tests\Exercice3.Tests\obj\Debug\Exercice3.Tests.pdb
