@@ -7,15 +7,15 @@ using System.Reflection;
 namespace Exercise3.Tests
 {
     [TestClass]
-    public class TextFileTests
+    public class XmlFileTests
     {
         [TestMethod]
-        public void ReadingTxtFileTest_Success()
+        public void ReadingXmlFileTest_Success()
         {
             
-            string expectedValue = "Ceci est un test de lecture d'un fichier .txt";
+            string expectedValue = "<test>ceci est un test de lecture</test>";
             Exercise3.DTO.ExerciceFile f = new DTO.ExerciceFile() {
-                Path = @"Data\TestFile1.txt"
+                Path = @"Data\TestFile1.xml"
             };
             var service = new FileServices(f);
             string calculatedValue = service.ReadFile();
@@ -23,23 +23,11 @@ namespace Exercise3.Tests
         }
 
         [TestMethod]
-        public void ReadingTxtFileTest_EmptyFile()
+        public void ReadingXmlFileTest_EmptyFile()
         {
             string expectedValue = string.Empty;
             Exercise3.DTO.ExerciceFile f = new DTO.ExerciceFile() {
-                Path = @"Data\TestFile2.txt"
-            };
-            var service = new FileServices(f);
-            string calculatedValue = service.ReadFile();
-            Assert.AreEqual(calculatedValue, expectedValue);
-        }
-
-        [TestMethod]
-        public void ReadingTxtFileTest_TypeERROR()
-        {
-            string expectedValue = "ERROR EXTENSION";
-            Exercise3.DTO.ExerciceFile f = new DTO.ExerciceFile() {
-                Path = @"Data\TestFile3.csv"
+                Path = @"Data\TestFile2.xml"
             };
             var service = new FileServices(f);
             string calculatedValue = service.ReadFile();

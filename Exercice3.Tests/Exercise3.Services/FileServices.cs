@@ -20,7 +20,7 @@ namespace Exercise3.Services
         {
             try
             {
-                if (file.IsTxt)
+                if (file.IsTxt || file.IsXml)
                 {
                     return File.ReadAllText(file.Path);
                 }
