@@ -1,0 +1,10 @@
+C:\Users\yousra.laribi\OneDrive\Arolla\TUI\Exercice3\Exercice3.Tests\Exercices.DTO\bin\Debug\Exercice3.DTO.dll
+C:\Users\yousra.laribi\OneDrive\Arolla\TUI\Exercice3\Exercice3.Tests\Exercices.DTO\bin\Debug\Exercice3.DTO.pdb
+C:\Users\yousra.laribi\OneDrive\Arolla\TUI\Exercice3\Exercice3.Tests\Exercices.DTO\obj\Debug\Exercice3.DTO.csprojResolveAssemblyReference.cache
+C:\Users\yousra.laribi\OneDrive\Arolla\TUI\Exercice3\Exercice3.Tests\Exercices.DTO\obj\Debug\Exercice3.DTO.dll
+C:\Users\yousra.laribi\OneDrive\Arolla\TUI\Exercice3\Exercice3.Tests\Exercices.DTO\obj\Debug\Exercice3.DTO.pdb
+C:\Users\yousra.laribi\OneDrive\Arolla\TUI\Exercice3 - 1\Exercice3.Tests\Exercices.DTO\bin\Debug\Exercice3.DTO.dll
+C:\Users\yousra.laribi\OneDrive\Arolla\TUI\Exercice3 - 1\Exercice3.Tests\Exercices.DTO\bin\Debug\Exercice3.DTO.pdb
+C:\Users\yousra.laribi\OneDrive\Arolla\TUI\Exercice3 - 1\Exercice3.Tests\Exercices.DTO\obj\Debug\Exercice3.DTO.dll
+C:\Users\yousra.laribi\OneDrive\Arolla\TUI\Exercice3 - 1\Exercice3.Tests\Exercices.DTO\obj\Debug\Exercice3.DTO.pdb
+C:\Users\yousra.laribi\OneDrive\Arolla\TUI\Exercice3 - 1\Exercice3.Tests\Exercices.DTO\obj\Debug\Exercice3.DTO.csprojResolveAssemblyReference.cache
