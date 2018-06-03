@@ -20,16 +20,30 @@ namespace Exercise3.Services
         {
             try
             {
-                if (file.IsTxt || file.IsXml)
+                if (!file.IsEncrypted)
                 {
-                    return File.ReadAllText(file.Path);
+                    if (file.IsTxt || file.IsXml)
+                    {
+                        return File.ReadAllText(file.Path);
+                    }
+                    else
+                    {
+                        return "ERROR EXTENSION";
+                    }
                 }
                 else
                 {
-                    return "ERROR EXTENSION";
+                    if (file.IsTxt)
+                    {
+                        return new string(File.ReadAllText(file.Path).Reverse().ToArray());
+                    }
+                    else
+                    {
+                        return "ERROR FILE ENCRYPTED";
+                    }
                 }
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 return "ERROR EXCEPTION";
             }

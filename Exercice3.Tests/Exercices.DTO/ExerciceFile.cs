@@ -10,6 +10,8 @@ namespace Exercise3.DTO
     {
         public string Path { get; set; }
 
+        public bool IsEncrypted { get; set; }
+
         public bool IsTxt
         {
             get

@@ -46,5 +46,21 @@ namespace Exercise3.Tests
             Assert.AreEqual(calculatedValue, expectedValue);
         }
 
+        [TestMethod]
+        public void ReadingTxtFileTest_EncryptedSuccess()
+        {
+
+            string expectedValue = "Ceci est un fichier decrypte";
+            Exercise3.DTO.ExerciceFile f = new DTO.ExerciceFile()
+            {
+                Path = @"Data\EncryptedTestFile1.txt",
+                IsEncrypted = true
+            };
+            var service = new FileServices(f);
+            string calculatedValue = service.ReadFile();
+            Assert.AreEqual(calculatedValue, expectedValue);
+        }
+
+
     }
 }
